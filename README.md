@@ -1,3 +1,3 @@
 # ATM-Machine
 
-The application replicates an ATM system, incorporating tasks such as generating distinct PINs, verifying users, and monitoring transaction history. It effectively manages PIN storage, facilitates financial transactions, and maintains a concise record of transactions using file operations and linked lists.
+This C program simulates an ATM system, allowing users to generate a PIN, perform transactions (deposit, withdraw), check balance, and view transaction history. It utilizes file handling to store PINs and a linked list to manage transaction history.
